@@ -19,3 +19,4 @@ for rn in range(0,2):
     final_list2.append(initial_list12.pop(inlist_index))
 final_list2 = sorted(final_list2)
 print(final_list5,final_list2)
+print(final_list2)
