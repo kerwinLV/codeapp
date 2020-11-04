@@ -1,10 +1,3 @@
-from django.test import TestCase
-
-# Create your tests here.
-# l = []
-# if not l:
-#     print(1111)
-
 import random
 initial_list32 = [i for i in range(1,36)]
 initial_list12 = [j for j in range(1,13)]
